@@ -1,2 +1,2 @@
 # Template-dev-lib
-PlatformIO device libray template
+PlatformIO TwoWireDevice/SPIDevice libray template
